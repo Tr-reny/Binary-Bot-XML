@@ -14,7 +14,7 @@ If you download or buy this bot, you agree to these terms.
 
 # How to Start :
 
-Step 1: Download the bot at https://github.com/Tr-reny/Binary-Bot-XML/blob/main/Premium%20Digit%20Differ%20/Premium%20Digit%20Differ%20%5B2st%20JUNE%202022%5D.xml
+Step 1: Download the bot at https://github.com/Tr-reny/Binary-Bot-XML/blob/main/Digit%20Prime%20Strategy/Digit%20Prime%20Strategy%5B2nd%20June%202022%5D.xml
 
 Step 2: Go to bot.binary.com
 
