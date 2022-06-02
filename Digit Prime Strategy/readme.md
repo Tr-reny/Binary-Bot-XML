@@ -54,24 +54,20 @@ Stop Loss : set by Yourself
 
 Take Profit: $1-$5 per bot run (5% per Bot run is good for you)
 
+
 # Bot Testing:
 
- Maximum Loss in Row: 2
+Maximum Loss in Row: 1
 
-Maximum Loss Amount: 24
+Maximum Loss Amount: $ 10.1
 
-No. of Run: 119
+No. of Run: 53
 
-Win & Loss : 109: 10
+Win & Loss : 50: 3
 
-Win Rate: 97.4% (Just at the moment)
+
 
 Tested by:rennykipkoech@gmail.com
-
-Buy me coffee --> https://www.buymeacoffee.com/reny
-
-
-
 
 
 ## 😄 Want to help keeping the project?<br>
