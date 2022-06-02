@@ -20,7 +20,9 @@ Step 2: Go to bot.binary.com
 
 Step 3 : Upload the downloaded .xml file
 
-Step 4 : Run the bot Step 4 : Make money
+Step 4 : Run the bot 
+
+Step 5 : Make money
 
 # Bot Description :
 
