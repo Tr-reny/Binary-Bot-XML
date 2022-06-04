@@ -34,15 +34,15 @@ Stake : USD
 
 # Recommended Settings: 
 
-Initial Amount: $ 10.1 or Set by yourself
+Initial Amount: $ 0.35 or Set by yourself
 
-Martingale Factor: 11
+Martingale Factor: 11 (Split 3 trades)
 
-Maximum Martingale Level : 2
+Maximum Martingale Level : 1
 
-Martingale Step: $10.1, $111.10
+Martingale Step: $0.35, $1.40, $7,$29.40
 
-Recommended Balance: $121.2
+Recommended Balance: $39
 
 Stop Loss : set by Yourself
 
@@ -51,13 +51,13 @@ Take Profit: $1-$5 per bot run (5% per Bot run is good for you)
 
 # Bot Testing:
 
-Maximum Loss in Row: 1
+Maximum Loss in Row: 3
 
-Maximum Loss Amount: $ 10.1
+Maximum Loss Amount: $ 8.75
 
-No. of Run: 53
+No. of Run: 200
 
-Win & Loss : 50: 3
+Win & Loss : 182: 18
 
 
 
