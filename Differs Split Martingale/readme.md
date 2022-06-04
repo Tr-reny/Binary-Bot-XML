@@ -25,44 +25,43 @@ Market : Volitility 100
 
 Index Trade Type : DIFFERS
 
-Prediction : 3
+Prediction : based on Strategy
 
-Duration : 5 Ticks
+Duration : 1 Ticks
 
 Stake : USD
 
-Recommended Settings: Initial Amount: 1$ or Set by yourself
+
+# Recommended Settings: 
+
+Initial Amount: $ 10.1 or Set by yourself
 
 Martingale Factor: 11
 
 Maximum Martingale Level : 2
 
-Martingale Step: 2
+Martingale Step: $10.1, $111.10
 
-Recommended Balance: 133
+Recommended Balance: $121.2
 
-Stop Loss : 24
+Stop Loss : set by Yourself
 
-Take Profit: set yourself
+Take Profit: $1-$5 per bot run (5% per Bot run is good for you)
 
-per run bot (You can use more, but making 5% is already very good)
 
-Bot Testing: Maximum Loss in Row: 2
+# Bot Testing:
 
-Maximum Loss Amount: 24
+Maximum Loss in Row: 1
 
-No. of Run: 119
+Maximum Loss Amount: $ 10.1
 
-Win & Loss : 109: 10
+No. of Run: 53
 
-Win Rate: 97.4% (Just at the moment)
+Win & Loss : 50: 3
+
+
 
 Tested by:rennykipkoech@gmail.com
-
-Buy me coffee --> https://www.buymeacoffee.com/reny
-
-
-
 
 
 ## 😄 Want to help keeping the project?<br>
