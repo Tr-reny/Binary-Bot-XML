@@ -75,8 +75,7 @@ Tested by:rennykipkoech@gmail.com
 You want to contribute to the project? 
 Make a donation on.
 
-Buy me coffee --> https://www.buymeacoffee.com/reny
-PayPal --> rennykipkoech@gmail.com
+Buy me coffee --> https://www.buymeacoffee.com/reny \
 Thanks in advance
 
 
