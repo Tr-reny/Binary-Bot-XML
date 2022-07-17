@@ -36,7 +36,9 @@ Duration : 5 Ticks
 
 Stake : USD
 
-Recommended Settings: Initial Amount: 1$ or Set by yourself
+Recommended Settings: 
+
+Initial Amount: 1$ or Set by yourself
 
 Martingale Factor: 11
 
