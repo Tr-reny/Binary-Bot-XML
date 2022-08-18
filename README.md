@@ -3,18 +3,18 @@
 # https://bot.binary.com/bot.html
 This is  a collection of xml binary bots that run on https://bot.binary.com/  \
 You can set your own profit goals, but starting with $5 per session is a good place to start.\
-To make a trading decision, we develop a strategy that includes, among other things, tick movement, indicators, last digit analysis, last digit pattern, trend analysis, and visual experience.\
+To make a trading decision, we develop a strategy that includes, among other things, tick movement, indicators, last digit analysis, last digit pattern, trend analysis, and visual experience.
 # How to Start :
 
 Step 1 : Go to bot.binary.com \
 Step 2 : Upload the downloaded .xml file \
 Step 3 : Run the bot \
-Step 4 : Make money \
+Step 4 : Make money 
 
 
 ![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
 
-\
+
 
 ## 😄 Want to help keeping the project?<br>
 
@@ -22,21 +22,24 @@ You want to contribute to the project?
 Make a donation on.
 
 Buy me coffee --> \
-https://www.buymeacoffee.com/reny
-Thanks in advance \
+https://www.buymeacoffee.com/reny \
+Thanks in advance 
 
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4R7Y853ARZGB2&source=url">
     <img src="https://raw.githubusercontent.com/iqoptionapi/iqoptionapi/master/docs/paypal-donate-button.png"
         alt="English" width="200" height="80" />
         </a>
-     \
+     
+     
+     
+     
      
 <a href="https://www.patreon.com/renykip">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
      
-\
+
 
 I also have premium bots available for sale 💸 
 
