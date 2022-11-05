@@ -11,8 +11,11 @@ Binary Bot & Deriv Bot
    Description
   </strong>
 </p>
-<p align="center">
+<p>
 This is  a collection of xml binary bots that run on https://bot.binary.com or https://app.deriv.com </br>
+Binary bot trading is a type of automated trading that can be used to make quick money with littlerisk. </br>
+However, at the moment binary bot may be the safest option for you, If you use an advanced-lower trading strategy. </br>
+This bot frequently delivered a modest rate of return but a high winning rate. When engaging martingale stages for your bots, you must use extreme caution </br>
 To make a trading decision, we develop a strategy that includes, among other things, tick movement, indicators, last digit analysis, last digit pattern, trend analysis, and visual experience.
 </p>
 
