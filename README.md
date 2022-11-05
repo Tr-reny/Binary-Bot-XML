@@ -1,9 +1,21 @@
-# Binary-Bot-XML 
-# Deriv bot
-# https://bot.binary.com
-This is  a collection of xml binary bots that run on https://bot.binary.com  \
-You can set your own profit goals, but starting with $5 per session is a good place to start.\
+<h1 align="center">
+Binary Bot & Deriv Bot
+</h1>
+
+<p align="center">
+   📄 🚀
+</p>
+
+<p align="center">
+  <strong>
+   Description
+  </strong>
+</p>
+<p align="center">
+This is  a collection of xml binary bots that run on https://bot.binary.com or https://app.deriv.com </br>
 To make a trading decision, we develop a strategy that includes, among other things, tick movement, indicators, last digit analysis, last digit pattern, trend analysis, and visual experience.
+</p>
+
 # How to Start :
 
 Step 1 : Go to bot.binary.com \
