@@ -15,8 +15,8 @@ Recommended Balance : 332.5$ (~333$) </br>
 Stop Loss : Set by yourself </br>
 Take Profit : 1$ - 5$ per run bot (You can use more, but making 5% is already very good) </br>
 
-# Bot Testing :
-Maximum Loss in Row : 2
-Maximum Loss Amount : 30$
-No. of Run : 56
-Win & Loss : 51 : 5
+# Bot Testing : 
+Maximum Loss in Row : 2 </br>
+Maximum Loss Amount : 30$ </br>
+No. of Run : 56 </br>
+Win & Loss : 51 : 5 </br>
