@@ -21,7 +21,7 @@ To make a trading decision, we develop a strategy that includes, among other thi
 
 # How to Start :
 
-Step 1 : Go to bot.binary.com \
+Step 1 : Go to https://bot.binary.com or https://app.deriv.com \
 Step 2 : Upload the downloaded .xml file \
 Step 3 : Run the bot \
 Step 4 : Make money 
