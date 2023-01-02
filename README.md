@@ -46,16 +46,8 @@ Thanks in advance
         alt="English" width="200" height="80" />
         </a>
      
-     
-     
-     
-     
-<a href="https://www.patreon.com/renykip">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-     
-
-
+</br>
+</br>
 I also have premium bots available for sale 💸 
 
 
