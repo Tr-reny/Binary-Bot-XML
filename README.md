@@ -6,6 +6,25 @@ Binary Bot & Deriv Bot
    📄 🚀
 </p>
 
+
+<p align="center">
+
+<a href="https://github.com/Tr-reny/alx-higher_level_programming/blob/master/LICENCE">
+ <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="alx-higher_level_programming is released under the MIT license." />
+  </a>
+  
+   <a href="https://img.shields.io/github/stars/Tr-reny/alx-higher_level_programming?style=social">
+  <img src="https://img.shields.io/github/stars/Tr-reny/alx-higher_level_programming?style=social" alt="Stars" />
+ </a>
+
+<a href="https://komarev.com/ghpvc/?username=alx-higher-level-programming&color=green">
+  <img src="https://komarev.com/ghpvc/?username=alxhigher-level-programming&color=green" />
+ </a>
+ 
+ 
+
+</p>
+
 <p align="center">
   <strong>
    Description
