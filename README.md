@@ -17,12 +17,10 @@ Binary Bot & Deriv Bot
   <img src="https://img.shields.io/github/stars/Tr-reny/Binary-Bot-XML?style=social" alt="Stars" />
  </a>
 
-<a href="https://komarev.com/ghpvc/?username=alx-higher-level-programming&color=green">
-  <img src="https://komarev.com/ghpvc/?username=alxhigher-level-programming&color=green" />
- </a>
+   <a href="https://komarev.com/ghpvc/?username=Tr-reny&color=green">
+      <img src="https://komarev.com/ghpvc/?username=Tr-reny&color=green" />
+   </a>
  
- 
-
 </p>
 
 <p align="center">
